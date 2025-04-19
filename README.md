@@ -13,7 +13,7 @@ Welcome to **NovaInteg**, the **sound scheme** designed to complement the **Nova
 
 ## How to Set It Up
 1. **Download and Extract the Files**:
-   - Download the NovaInteg sound scheme files and extract the `.rar` archive to a folder on your computer.
+   - Download the NovaInteg sound scheme and extract the `.zip` archive to a folder on your computer.
    
 2. **Set the Sounds**:
    - Open **Control Panel**.
