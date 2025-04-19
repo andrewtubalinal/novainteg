@@ -1,8 +1,8 @@
                                                                                
 
-# NovaInteg - The Sound Scheme for Nova AI
+# NovaInteg - The Sound Scheme using Nova Voice Model
 
-Welcome to **NovaInteg**, the **sound scheme** designed to complement the **Nova AI** voice model, powered by **TTSMP3 AI** ([TTSMP3 AI](https://ttsmp3.com/ai)). This repository provides a set of **custom sound effects** that enhance the **Nova AI** experience by adding clear, engaging feedback for various system actions, making interactions more intuitive and fun.
+Welcome to **NovaInteg**, the **sound scheme** designed to complement the voice model powered by **TTSMP3 AI** ([TTSMP3 AI](https://ttsmp3.com/ai)). This repository provides a set of **custom sound effects** that enhance the experience by adding clear, engaging feedback for various system actions, making interactions more intuitive and fun.
 
 **Nova** is the voice model from TTSMP3 AI, and this scheme is designed to give your system a **futuristic, interactive sound experience** to accompany your Nova AI-powered interactions.
 
