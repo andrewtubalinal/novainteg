@@ -1,9 +1,4 @@
-# ███╗   ██╗ ██████╗ ██╗   ██╗ █████╗ ██╗███╗   ██╗████████╗███████╗ ██████╗ 
-# ████╗  ██║██╔═══██╗██║  ██║██╔══██╗██║████╗  ██║╚══██╔══╝██╔════╝██╔═══██╗
-# ██╔██╗ ██║██║   ██║██║   ██║███████║██║██╔██╗ ██║   ██║   █████╗  ██║   ██║
-# ██║╚██╗██║██║▄▄ ██║██║   ██║██╔══██║██║██║╚██╗██║   ██║   ██╔══╝  ██║   ██║
-# ██║ ╚████║╚██████╔╝╚██████╔╝██║  ██║██║██║ ╚████║   ██║   ███████╗╚██████╔╝
-# ╚═╝  ╚═══╝ ╚══▀▀═╝  ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝ ╚═════╝ 
+                                                                               
 
 # NovaInteg - The Sound Scheme for Nova AI
 
@@ -34,7 +29,7 @@ Welcome to **NovaInteg**, the **sound scheme** designed to complement the **Nova
 ## Credits
 - **Voice Model - Nova**: Powered by **TTSMP3 AI** ([TTSMP3 AI](https://ttsmp3.com/ai)) for providing the core voice model.
 - **ChatGPT**: Assisted by OpenAI's **ChatGPT** in designing the sound scheme and refining the interactions.
-- **John Andrew L. T.**: Creator of the **NovaInteg** sound scheme.
+- **John Andrew L. Tubalinal.**: Creator of the **NovaInteg** sound scheme.
 
 ---
 
